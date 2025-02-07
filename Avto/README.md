@@ -3,39 +3,39 @@
 ## Блок 1. Основы автоматизации, платформа JUnit
 
 1.1. Основы автоматизации
-[Задача 1, 2](https://github.com/realzyryan/CashBackHacker)
+[Задача 1, 2]()
 
 1.2. Тестирование API. CI
-[Задача 1, 2](https://github.com/realzyryan/API),
-[Задача 3](https://github.com/realzyryan/PostmanEcho)
+[Задача 1, 2](),
+[Задача 3]()
 
 ## Блок 2. Тестирование веб-интерфейсов
 
 2.1. Тестирование веб-интерфейсов, Selenium и Selenide
-[Задача 1](https://github.com/Larinatest/)
+[Задача 1]()
 
 2.2. Selenide
 [Задача 1](https://github.com/Larinatest/Selenide)
 
 2.3. Patterns
-[Задача 1](https://github.com/Larinatest/Patterns_1_and_Allure),
-[Задача 2](https://github.com/Larinatest/Patterns_2)
+[Задача 1](),
+[Задача 2]()
 
 2.4. Behaviour Driven Development
-[Задача 1](https://github.com/realzyryan/BDD)
+[Задача 1](https://github.com/Larinatest/BDD)
 
 ## Блок 3. Docker и SQL
 
 3.1. Docker и Docker Compose
-[Задача 1](https://github.com/realzyryan/Docker)
+[Задача 1](https://github.com/Larinatest/Docker)
 
 3.2. SQL
-[Задача 1](https://github.com/realzyryan/SQL)
+[Задача 1](https://github.com/Larinatest/SQL)
 
 ## Блок 4. Отчётность и анализ
 
 4.1. Репортинг: Report Portal
-[Задача 1](https://github.com/realzyryan/Patterns_1_and_Allure)
+[Задача 1]()
 
 4.2. Заключительная лекция
-[Задача 1](https://github.com/realzyryan/TestPlan)
+[Задача 1](https://github.com/Larinatest/TestPlan)
