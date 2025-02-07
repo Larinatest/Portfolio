@@ -27,7 +27,7 @@
 ## Блок 3. Docker и SQL
 
 3.1. Docker и Docker Compose
-[Задача 1](https://github.com/Larinatest/docker)
+[Задача 1](https://github.com/Larinatest/doker)
 
 3.2. SQL
 [Задача 1](https://github.com/Larinatest/SQL)
