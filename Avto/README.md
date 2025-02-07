@@ -38,4 +38,4 @@
 [Задача 1]()
 
 4.2. Заключительная лекция
-[Задача 1](https://github.com/Larinatest/TestPlan)
+[Задача 1](https://github.com/Larinatest/auto_test_plan)
